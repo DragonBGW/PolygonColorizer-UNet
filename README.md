@@ -1,7 +1,5 @@
 # PolygonColorizer-UNet
 A conditional image-to-image translation model that takes a **grayscale polygon image** and a **color name** as input, and generates the same polygon **filled with the specified color** using a custom-built UNet.  
-Developed as part of the Ayna ML Internship Assignment.
-
 ---
 
 ## 📌 Problem Statement
